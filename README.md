@@ -1,6 +1,6 @@
 ### Hi, I'm zhiqiu 👋
 
-- 🔭 I’m currently working on deep learning system (PaddlePaddle).
+- 🔭 I’m currently working on deep learning framework/platform/system (PaddlePaddle).
 
 ![zhiqiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiqiu)
 
