@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm zhiqiu 👋
+
+- 🔭 I’m currently working on deep learning system (PaddlePaddle).
+
+![zhiqiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiqiu)
 
 <!--
 **zhiqiu/zhiqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
